@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 35,
+    "active_layer": 0,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -59,7 +59,7 @@
       37,
       38
     ],
-    "visible_layers": "000900a_80000001"
+    "visible_layers": "0009000_80000001"
   },
   "meta": {
     "filename": "safeproject-mic-r1.kicad_prl",
