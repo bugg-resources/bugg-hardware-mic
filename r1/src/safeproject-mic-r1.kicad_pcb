@@ -568,6 +568,11 @@
       (xy -2.197632 -0.402604)
       (xy -3.622629 -0.402604)) (layer "F.Paste") (width 0.01) (fill solid) (tstamp a8279718-0dd7-4828-bb1f-ac9f716159be))
     (pad "" np_thru_hole circle (at 0 0) (size 7.4 7.4) (drill 4.4) (layers "F.Cu" "F.Mask") (tstamp 7c5968e3-fcbd-4d48-9e74-35cfeb743185))
+    (model "${KISYS3DMOD}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
@@ -855,7 +860,12 @@
       (net 1 "GND") (pinfunction "VSS_THERMAL") (tstamp d60c3baa-52f3-4d7f-9c80-da81b69eaddb))
     (pad "25" thru_hole circle (at 0 -1.075 270) (size 0.5 0.5) (drill 0.2) (layers *.Cu)
       (net 1 "GND") (pinfunction "VSS_THERMAL") (tstamp d7e91c0c-4ecd-47a5-bee9-3fb0c5116d5b))
-    (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.65x2.65mm.wrl"
+    (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.65x2.65mm.wrl" hide
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -978,6 +988,11 @@
       (xy 0.402371 -2.202604)
       (xy 0.402371 -3.627604)) (layer "F.Paste") (width 0.01) (fill solid) (tstamp b4de4bb2-6abc-4878-b06a-c50ff7f97026))
     (pad "" np_thru_hole circle (at 0 0) (size 7.4 7.4) (drill 4.4) (layers "F.Cu" "F.Mask") (tstamp 28f619f8-359b-4bfa-9303-659c03c94434))
+    (model "${KISYS3DMOD}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/jeff/projects/2020/safeproject/repos/sp-hardware-mic/r1/src/safeproject-mic-r1.kicad_sch</source>
+    <date>Thu 28 Jan 2021 16:15:57 GMT</date>
+    <tool>Eeschema 5.99.0-unknown-r24380-aab3c936</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>safeproject-mic-r1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>b5693a0b-6f55-4a5d-88a7-9cf0f294a4e2</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>2f6f9267-7f0e-4d35-961d-c485425ac757</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>f4d04b0c-b805-4987-9960-d3505c8310f5</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>e26c2a9f-5182-4f79-8688-efafcfac9f39</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>236064e1-e338-4b62-a2ec-66a26963c57e</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>bbc63a0d-a2e2-4800-87fc-0f922ab3a988</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>737aaabd-81b5-488a-a8f1-e58329359126</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6cbad662-2248-4399-a58d-04b744e3afe8</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>a099f2a4-148f-4b4e-9135-e7934a63580a</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>e0c0e36a-8cf3-4418-8f82-f67f3b2c8ae0</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>fd81de5c-d57c-41b0-8605-22dd48072f4d</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>b5fde93f-3fc0-43e7-9465-e0ce2bc9b2d9</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>2842142-4</value>
+      <footprint>jeffmakes-footprints:PinHeader_2x04_P2.00mm_Vertical_SMD_AMPMODU</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x04_Odd_Even" description="Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>cfddb752-5d42-40a4-a784-47604c60f145</tstamp>
+    </comp>
+    <comp ref="MK1">
+      <value>SPH0641LU4H-1</value>
+      <footprint>Sensor_Audio:Knowles_LGA-5_3.5x2.65mm</footprint>
+      <datasheet>https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf</datasheet>
+      <libsource lib="Sensor_Audio" part="SPH0641LU4H-1" description="Digital MEMS Microphone, LGA-5"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>90d14131-b447-457b-bc70-503cc2eda621</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>22R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>9081b5d7-9047-448e-a989-9c71076418c9</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>22R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0a71a0e9-5028-422d-b3b1-e95b865388bf</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0c49f974-fa70-4714-a696-8436d820f0b5</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>619f3b9b-1e8c-450e-9e99-81a019399861</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4b39f222-8e62-4663-996d-2300900cb879</tstamp>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>3da0f188-afb1-44d5-84b4-254947699d98</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>PCMD3180</value>
+      <footprint>Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.65x2.65mm_ThermalVias</footprint>
+      <libsource lib="j_Audio" part="PCMD3180" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="safeproject-mic-r1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>bb961c22-975d-43a9-ac2a-7246f1939233</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x04_Odd_Even">
+      <description>Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x04_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Audio" part="SPH0641LU4H-1">
+      <description>Digital MEMS Microphone, LGA-5</description>
+      <docs>https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf</docs>
+      <footprints>
+        <fp>Knowles*LGA*3.5x2.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">MK</field>
+        <field name="Value">SPH0641LU4H-1</field>
+        <field name="Footprint">Sensor_Audio:Knowles_LGA-5_3.5x2.65mm</field>
+        <field name="Datasheet">https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DATA" type="output"/>
+        <pin num="2" name="SEL" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="CLOCK" type="input"/>
+        <pin num="5" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="j_Audio" part="PCMD3180">
+      <footprints>
+        <fp>QFN*1EP*4x4mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCMD3180</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AVDD" type="power_in"/>
+        <pin num="2" name="AREG" type="power_out"/>
+        <pin num="3" name="VREF" type="power_out"/>
+        <pin num="4" name="AVSS" type="power_in"/>
+        <pin num="5" name="MICBIAS" type="power_out"/>
+        <pin num="6" name="PDMDIN1_GPI1" type="input"/>
+        <pin num="7" name="PDMCLK1_GPO1" type="output"/>
+        <pin num="8" name="PDMDIN2_GPI2" type="input"/>
+        <pin num="9" name="PDMCLK2_GPO2" type="output"/>
+        <pin num="10" name="PDMDIN3_GPI3" type="input"/>
+        <pin num="11" name="PDMCLK3_GPO3" type="output"/>
+        <pin num="12" name="PDMDIN4_GPI4" type="input"/>
+        <pin num="13" name="PDMCLK4_GPO4" type="output"/>
+        <pin num="14" name="SHDNZ" type="input"/>
+        <pin num="15" name="ADDR1_MISO" type="BiDi"/>
+        <pin num="16" name="ADDR0_SCLK" type="input"/>
+        <pin num="17" name="SCL_MOSI" type="input"/>
+        <pin num="18" name="SDA_SSZ" type="BiDi"/>
+        <pin num="19" name="IOVDD" type="power_in"/>
+        <pin num="20" name="GPIO1" type="BiDi"/>
+        <pin num="21" name="SDOUT" type="output"/>
+        <pin num="22" name="BCLK" type="BiDi"/>
+        <pin num="23" name="FSYNC" type="BiDi"/>
+        <pin num="24" name="DREG" type="power_out"/>
+        <pin num="25" name="VSS_THERMAL" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/home/jeff/projects/2020/safeproject/repos/sp-hardware-mic/r1/src/../../lib/kicad-symbols/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/home/jeff/projects/2020/safeproject/repos/sp-hardware-mic/r1/src/../../lib/kicad-symbols/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/home/jeff/projects/2020/safeproject/repos/sp-hardware-mic/r1/src/../../lib/kicad-symbols/Device.lib</uri>
+    </library>
+    <library logical="Sensor_Audio">
+      <uri>/home/jeff/projects/2020/safeproject/repos/sp-hardware-mic/r1/src/../../lib/kicad-symbols/Sensor_Audio.lib</uri>
+    </library>
+    <library logical="j_Audio">
+      <uri>/home/jeff/projects/2020/safeproject/repos/sp-hardware-mic/r1/src/../../lib/jeffmakes-kicad-library/jeffmakes-symbols/j_Audio.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2"/>
+      <node ref="MK1" pin="2" pinfunction="SEL"/>
+      <node ref="MK1" pin="5" pinfunction="VDD"/>
+      <node ref="R3" pin="2"/>
+      <node ref="U1" pin="1" pinfunction="AVDD"/>
+      <node ref="U1" pin="19" pinfunction="IOVDD"/>
+    </net>
+    <net code="2" name="/BCLK">
+      <node ref="J1" pin="6" pinfunction="Pin_6"/>
+      <node ref="U1" pin="22" pinfunction="BCLK"/>
+    </net>
+    <net code="3" name="/FSYNC">
+      <node ref="J1" pin="4" pinfunction="Pin_4"/>
+      <node ref="U1" pin="23" pinfunction="FSYNC"/>
+    </net>
+    <net code="4" name="/SCL">
+      <node ref="J1" pin="3" pinfunction="Pin_3"/>
+      <node ref="U1" pin="17" pinfunction="SCL_MOSI"/>
+    </net>
+    <net code="5" name="/SDA">
+      <node ref="J1" pin="5" pinfunction="Pin_5"/>
+      <node ref="U1" pin="18" pinfunction="SDA_SSZ"/>
+    </net>
+    <net code="6" name="/SDOUT">
+      <node ref="J1" pin="8" pinfunction="Pin_8"/>
+      <node ref="U1" pin="21" pinfunction="SDOUT"/>
+    </net>
+    <net code="7" name="/SHDNZ">
+      <node ref="C12" pin="2"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="U1" pin="14" pinfunction="SHDNZ"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C1" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7"/>
+      <node ref="MK1" pin="3" pinfunction="GND"/>
+      <node ref="U1" pin="10" pinfunction="PDMDIN3_GPI3"/>
+      <node ref="U1" pin="12" pinfunction="PDMDIN4_GPI4"/>
+      <node ref="U1" pin="15" pinfunction="ADDR1_MISO"/>
+      <node ref="U1" pin="16" pinfunction="ADDR0_SCLK"/>
+      <node ref="U1" pin="25" pinfunction="VSS_THERMAL"/>
+      <node ref="U1" pin="4" pinfunction="AVSS"/>
+      <node ref="U1" pin="8" pinfunction="PDMDIN2_GPI2"/>
+    </net>
+    <net code="9" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2"/>
+      <node ref="U1" pin="5" pinfunction="MICBIAS"/>
+    </net>
+    <net code="10" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2"/>
+      <node ref="U1" pin="3" pinfunction="VREF"/>
+    </net>
+    <net code="11" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="U1" pin="2" pinfunction="AREG"/>
+    </net>
+    <net code="12" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U1" pin="24" pinfunction="DREG"/>
+    </net>
+    <net code="13" name="Net-(MK1-Pad1)">
+      <node ref="MK1" pin="1" pinfunction="DATA"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="14" name="Net-(MK1-Pad4)">
+      <node ref="MK1" pin="4" pinfunction="CLOCK"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="15" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2"/>
+      <node ref="TP2" pin="1" pinfunction="1"/>
+      <node ref="U1" pin="6" pinfunction="PDMDIN1_GPI1"/>
+    </net>
+    <net code="16" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="TP3" pin="1" pinfunction="1"/>
+      <node ref="U1" pin="7" pinfunction="PDMCLK1_GPO1"/>
+    </net>
+    <net code="17" name="Net-(TP1-Pad1)">
+      <node ref="TP1" pin="1" pinfunction="1"/>
+      <node ref="U1" pin="20" pinfunction="GPIO1"/>
+    </net>
+    <net code="18" name="no_connect_18">
+      <node ref="U1" pin="11" pinfunction="PDMCLK3_GPO3"/>
+    </net>
+    <net code="19" name="no_connect_19">
+      <node ref="U1" pin="13" pinfunction="PDMCLK4_GPO4"/>
+    </net>
+    <net code="20" name="no_connect_20">
+      <node ref="U1" pin="9" pinfunction="PDMCLK2_GPO2"/>
+    </net>
+  </nets>
+</export>
