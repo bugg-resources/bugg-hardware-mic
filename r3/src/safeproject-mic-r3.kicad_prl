@@ -60,11 +60,11 @@
       37,
       38
     ],
-    "visible_layers": "004b128_80000001",
+    "visible_layers": "004b1a8_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "safeproject-mic-r2.kicad_prl",
+    "filename": "safeproject-mic-r3.kicad_prl",
     "version": 3
   },
   "project": {
