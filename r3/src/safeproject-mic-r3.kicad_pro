@@ -393,7 +393,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "safeproject-mic-r2.kicad_pro",
+    "filename": "safeproject-mic-r3.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -470,7 +470,7 @@
   },
   "sheets": [
     [
-      "810d5182-7d8d-4e3c-a282-27a241fdd491",
+      "1692e6a7-b9c0-4a4a-aa1e-ad946df48101",
       ""
     ]
   ],
