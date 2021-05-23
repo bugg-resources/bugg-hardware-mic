@@ -1147,7 +1147,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 90.17 74.93 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4b39f222-8e62-4663-996d-2300900cb879)
-    (property "Reference" "TP2" (id 0) (at 92.71 71.12 0)
+    (property "Reference" "TP102" (id 0) (at 92.71 71.12 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (id 1) (at 92.71 73.66 0)
@@ -1165,7 +1165,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 90.17 83.82 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3da0f188-afb1-44d5-84b4-254947699d98)
-    (property "Reference" "TP3" (id 0) (at 92.71 80.01 0)
+    (property "Reference" "TP103" (id 0) (at 92.71 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (id 1) (at 92.71 82.55 0)
@@ -1183,7 +1183,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 180.34 125.73 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 619f3b9b-1e8c-450e-9e99-81a019399861)
-    (property "Reference" "TP1" (id 0) (at 185.42 124.46 90)
+    (property "Reference" "TP101" (id 0) (at 185.42 124.46 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (id 1) (at 185.42 125.73 90)
@@ -1961,13 +1961,13 @@
       (reference "R103") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/619f3b9b-1e8c-450e-9e99-81a019399861"
-      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+      (reference "TP101") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/4b39f222-8e62-4663-996d-2300900cb879"
-      (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+      (reference "TP102") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/3da0f188-afb1-44d5-84b4-254947699d98"
-      (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+      (reference "TP103") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/bb961c22-975d-43a9-ac2a-7246f1939233"
       (reference "U101") (unit 1) (value "PCMD3180") (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.65x2.65mm_ThermalVias")
