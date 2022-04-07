@@ -1,3 +1,5 @@
+![cc-by-nc-sa-shield](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
 # sp-hardware-mic
 
 This repository contains the KiCad source files for the microphone PCB of the Bugg recording device.
