@@ -1105,7 +1105,7 @@
   (symbol (lib_id "Device:R_Small") (at 82.55 83.82 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0a71a0e9-5028-422d-b3b1-e95b865388bf)
-    (property "Reference" "R102" (at 82.55 77.47 90)
+    (property "Reference" "R302" (at 82.55 77.47 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22R" (at 82.55 80.01 90)
@@ -1122,7 +1122,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "R102") (unit 1) (value "22R") (footprint "Resistor_SMD:R_0402_1005Metric")
+          (reference "R302") (unit 1) (value "22R") (footprint "Resistor_SMD:R_0402_1005Metric")
         )
       )
     )
@@ -1131,7 +1131,7 @@
   (symbol (lib_id "Device:R_Small") (at 195.58 62.23 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0c49f974-fa70-4714-a696-8436d820f0b5)
-    (property "Reference" "R103" (at 198.12 60.96 0)
+    (property "Reference" "R303" (at 198.12 59.69 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 198.12 62.23 0)
@@ -1148,7 +1148,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "R103") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R303") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
         )
       )
     )
@@ -1207,7 +1207,7 @@
   (symbol (lib_id "Device:C_Small") (at 138.43 58.42 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 236064e1-e338-4b62-a2ec-66a26963c57e)
-    (property "Reference" "C105" (at 138.43 52.07 90)
+    (property "Reference" "C305" (at 138.43 52.07 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 138.43 54.61 90)
@@ -1224,7 +1224,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C105") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+          (reference "C305") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
         )
       )
     )
@@ -1308,7 +1308,7 @@
   (symbol (lib_id "Device:C_Small") (at 105.41 58.42 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f6f9267-7f0e-4d35-961d-c485425ac757)
-    (property "Reference" "C102" (at 105.41 52.07 90)
+    (property "Reference" "C302" (at 105.41 52.07 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 105.41 54.61 90)
@@ -1325,7 +1325,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C102") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+          (reference "C302") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
         )
       )
     )
@@ -1359,7 +1359,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 90.17 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3da0f188-afb1-44d5-84b4-254947699d98)
-    (property "Reference" "TP103" (at 92.71 80.01 0)
+    (property "Reference" "TP302" (at 92.71 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 92.71 82.55 0)
@@ -1375,7 +1375,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "TP103") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+          (reference "TP302") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
         )
       )
     )
@@ -1509,7 +1509,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 90.17 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4b39f222-8e62-4663-996d-2300900cb879)
-    (property "Reference" "TP102" (at 92.71 71.12 0)
+    (property "Reference" "TP301" (at 92.71 71.12 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 92.71 73.66 0)
@@ -1525,7 +1525,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "TP102") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+          (reference "TP301") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
         )
       )
     )
@@ -1534,13 +1534,13 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 220.98 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5775c3a6-8e4d-46b6-8692-e3035ff2dff7)
-    (property "Reference" "H102" (at 224.79 135.2549 0)
+    (property "Reference" "H302" (at 224.79 135.2549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "wurth-spacer-WA-SMSI-9774070360" (at 224.79 137.7949 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360" (at 220.98 135.89 0)
+    (property "Footprint" "jeffmakes-footprints:Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360" (at 220.98 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 135.89 0)
@@ -1550,7 +1550,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "H102") (unit 1) (value "wurth-spacer-WA-SMSI-9774070360") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360")
+          (reference "H302") (unit 1) (value "wurth-spacer-WA-SMSI-9774070360") (footprint "jeffmakes-footprints:Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360")
         )
       )
     )
@@ -1559,7 +1559,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 180.34 125.73 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 619f3b9b-1e8c-450e-9e99-81a019399861)
-    (property "Reference" "TP101" (at 185.42 124.46 90)
+    (property "Reference" "TP303" (at 185.42 124.46 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 185.42 125.73 90)
@@ -1575,7 +1575,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "TP101") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+          (reference "TP303") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
         )
       )
     )
@@ -1584,7 +1584,7 @@
   (symbol (lib_id "Device:C_Small") (at 161.29 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6cbad662-2248-4399-a58d-04b744e3afe8)
-    (property "Reference" "C108" (at 161.29 41.91 90)
+    (property "Reference" "C308" (at 161.29 41.91 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10uF" (at 161.29 44.45 90)
@@ -1601,7 +1601,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C108") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C308") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
         )
       )
     )
@@ -1610,7 +1610,7 @@
   (symbol (lib_id "Device:C_Small") (at 151.13 58.42 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 737aaabd-81b5-488a-a8f1-e58329359126)
-    (property "Reference" "C107" (at 151.13 52.07 90)
+    (property "Reference" "C307" (at 151.13 52.07 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 151.13 54.61 90)
@@ -1627,7 +1627,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C107") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+          (reference "C307") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
         )
       )
     )
@@ -1661,7 +1661,7 @@
   (symbol (lib_id "Device:R_Small") (at 82.55 74.93 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9081b5d7-9047-448e-a989-9c71076418c9)
-    (property "Reference" "R101" (at 82.55 68.58 90)
+    (property "Reference" "R301" (at 82.55 68.58 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22R" (at 82.55 71.12 90)
@@ -1678,7 +1678,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "R101") (unit 1) (value "22R") (footprint "Resistor_SMD:R_0402_1005Metric")
+          (reference "R301") (unit 1) (value "22R") (footprint "Resistor_SMD:R_0402_1005Metric")
         )
       )
     )
@@ -1687,7 +1687,7 @@
   (symbol (lib_id "Sensor_Audio:SPH0641LU4H-1") (at 55.88 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 90d14131-b447-457b-bc70-503cc2eda621)
-    (property "Reference" "MIC101" (at 46.99 71.12 0)
+    (property "Reference" "MIC301" (at 46.99 71.12 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SPH0641LU4H-1" (at 46.99 72.39 0)
@@ -1707,7 +1707,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "MIC101") (unit 1) (value "SPH0641LU4H-1") (footprint "Sensor_Audio:Knowles_LGA-5_3.5x2.65mm")
+          (reference "MIC301") (unit 1) (value "SPH0641LU4H-1") (footprint "Sensor_Audio:Knowles_LGA-5_3.5x2.65mm")
         )
       )
     )
@@ -1741,7 +1741,7 @@
   (symbol (lib_id "Device:C_Small") (at 161.29 58.42 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a099f2a4-148f-4b4e-9135-e7934a63580a)
-    (property "Reference" "C109" (at 161.29 52.07 90)
+    (property "Reference" "C309" (at 161.29 52.07 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 161.29 54.61 90)
@@ -1758,7 +1758,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C109") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+          (reference "C309") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
         )
       )
     )
@@ -1792,7 +1792,7 @@
   (symbol (lib_id "Mechanical:Fiducial") (at 220.98 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a788886d-d09e-4d57-adf9-1c25b7f0fa6a)
-    (property "Reference" "FID1" (at 223.52 146.6849 0)
+    (property "Reference" "FID301" (at 223.52 146.6849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Fiducial" (at 223.52 149.2249 0)
@@ -1807,7 +1807,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "FID1") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_0.5mm_Mask1mm")
+          (reference "FID301") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_0.5mm_Mask1mm")
         )
       )
     )
@@ -1866,7 +1866,7 @@
   (symbol (lib_id "Device:C_Small") (at 63.5 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b5693a0b-6f55-4a5d-88a7-9cf0f294a4e2)
-    (property "Reference" "C101" (at 63.5 53.34 90)
+    (property "Reference" "C301" (at 63.5 53.34 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 63.5 55.88 90)
@@ -1883,7 +1883,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C101") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+          (reference "C301") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
         )
       )
     )
@@ -1892,7 +1892,7 @@
   (symbol (lib_id "Device:C_Small") (at 195.58 69.85 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b5fde93f-3fc0-43e7-9465-e0ce2bc9b2d9)
-    (property "Reference" "C112" (at 198.12 68.58 0)
+    (property "Reference" "C312" (at 198.12 67.31 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1uF" (at 198.12 69.85 0)
@@ -1909,7 +1909,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C112") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C312") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
         )
       )
     )
@@ -1918,7 +1918,7 @@
   (symbol (lib_id "j_Audio:PCMD3180") (at 143.51 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bb961c22-975d-43a9-ac2a-7246f1939233)
-    (property "Reference" "U101" (at 143.51 100.33 0)
+    (property "Reference" "U301" (at 143.51 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PCMD3180" (at 143.51 102.87 0)
@@ -1958,7 +1958,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "U101") (unit 1) (value "PCMD3180") (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.65x2.65mm_ThermalVias")
+          (reference "U301") (unit 1) (value "PCMD3180") (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.65x2.65mm_ThermalVias")
         )
       )
     )
@@ -1967,7 +1967,7 @@
   (symbol (lib_id "Device:C_Small") (at 151.13 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bbc63a0d-a2e2-4800-87fc-0f922ab3a988)
-    (property "Reference" "C106" (at 151.13 41.91 90)
+    (property "Reference" "C306" (at 151.13 41.91 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 151.13 44.45 90)
@@ -1984,7 +1984,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C106") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+          (reference "C306") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
         )
       )
     )
@@ -2043,7 +2043,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x04_Odd_Even") (at 234.95 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cfddb752-5d42-40a4-a784-47604c60f145)
-    (property "Reference" "J101" (at 234.95 106.68 0)
+    (property "Reference" "J301" (at 234.95 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2842142-4" (at 231.14 109.22 0)
@@ -2066,7 +2066,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "J101") (unit 1) (value "2842142-4") (footprint "jeffmakes-footprints:PinHeader_2x04_P2.00mm_Vertical_SMD_AMPMODU")
+          (reference "J301") (unit 1) (value "2842142-4") (footprint "jeffmakes-footprints:PinHeader_2x04_P2.00mm_Vertical_SMD_AMPMODU")
         )
       )
     )
@@ -2125,7 +2125,7 @@
   (symbol (lib_id "Device:C_Small") (at 176.53 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e0c0e36a-8cf3-4418-8f82-f67f3b2c8ae0)
-    (property "Reference" "C110" (at 176.53 41.91 90)
+    (property "Reference" "C310" (at 176.53 41.91 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10uF" (at 176.53 44.45 90)
@@ -2142,7 +2142,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C110") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C310") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
         )
       )
     )
@@ -2151,7 +2151,7 @@
   (symbol (lib_id "Device:C_Small") (at 138.43 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e26c2a9f-5182-4f79-8688-efafcfac9f39)
-    (property "Reference" "C104" (at 138.43 41.91 90)
+    (property "Reference" "C304" (at 138.43 41.91 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10uF" (at 138.43 44.45 90)
@@ -2168,7 +2168,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C104") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C304") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
         )
       )
     )
@@ -2177,13 +2177,13 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 220.98 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e981660f-7717-449b-8d64-17301d3e16cd)
-    (property "Reference" "H101" (at 224.79 123.8249 0)
+    (property "Reference" "H301" (at 224.79 123.8249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "wurth-spacer-WA-SMSI-9774070360" (at 224.79 126.3649 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360" (at 220.98 124.46 0)
+    (property "Footprint" "jeffmakes-footprints:Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360" (at 220.98 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 124.46 0)
@@ -2193,7 +2193,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "H101") (unit 1) (value "wurth-spacer-WA-SMSI-9774070360") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360")
+          (reference "H301") (unit 1) (value "wurth-spacer-WA-SMSI-9774070360") (footprint "jeffmakes-footprints:Mounting_Wuerth_WA-SMSI-M3_H7mm_9774070360")
         )
       )
     )
@@ -2202,7 +2202,7 @@
   (symbol (lib_id "Mechanical:Fiducial") (at 220.98 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eafa243e-34f8-4b07-b653-9ee6d7cb3e7a)
-    (property "Reference" "FID2" (at 223.52 153.0349 0)
+    (property "Reference" "FID302" (at 223.52 153.0349 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Fiducial" (at 223.52 155.5749 0)
@@ -2217,7 +2217,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "FID2") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_0.5mm_Mask1mm")
+          (reference "FID302") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_0.5mm_Mask1mm")
         )
       )
     )
@@ -2226,7 +2226,7 @@
   (symbol (lib_id "Device:C_Small") (at 124.46 58.42 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f4d04b0c-b805-4987-9960-d3505c8310f5)
-    (property "Reference" "C103" (at 124.46 52.07 90)
+    (property "Reference" "C303" (at 124.46 52.07 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 124.46 54.61 90)
@@ -2243,7 +2243,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C103") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+          (reference "C303") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
         )
       )
     )
@@ -2302,7 +2302,7 @@
   (symbol (lib_id "Device:C_Small") (at 176.53 58.42 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd81de5c-d57c-41b0-8605-22dd48072f4d)
-    (property "Reference" "C111" (at 176.53 52.07 90)
+    (property "Reference" "C311" (at 176.53 52.07 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 176.53 54.61 90)
@@ -2319,7 +2319,7 @@
     (instances
       (project "bugg-mic-r4"
         (path "/1692e6a7-b9c0-4a4a-aa1e-ad946df48101"
-          (reference "C111") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+          (reference "C311") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
         )
       )
     )
