@@ -1,7 +1,7 @@
 (kicad_pcb (version 20221018) (generator pcbnew)
 
   (general
-    (thickness 1.49)
+    (thickness 1.6)
   )
 
   (paper "A4")
@@ -51,7 +51,7 @@
       (layer "In1.Cu" (type "copper") (thickness 0.035))
       (layer "dielectric 2" (type "core") (thickness 0.3) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
       (layer "In2.Cu" (type "copper") (thickness 0.035))
-      (layer "dielectric 3" (type "prepreg") (thickness 0.22) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
+      (layer "dielectric 3" (type "prepreg") (thickness 0.33) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
       (layer "In3.Cu" (type "copper") (thickness 0.035))
       (layer "dielectric 4" (type "core") (thickness 0.3) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
       (layer "In4.Cu" (type "copper") (thickness 0.035))
@@ -580,7 +580,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/5775c3a6-8e4d-46b6-8692-e3035ff2dff7")
     (attr smd)
-    (fp_text reference "H302" (at 0 -4.65) (layer "F.SilkS") hide
+    (fp_text reference "SP302" (at 0 -4.65) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d47d5f73-1462-42d8-a205-ebae4a65073a)
     )
@@ -713,7 +713,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4af2f9ce-eced-45ce-a41c-5080f3b41472)
     )
-    (fp_text value "22R" (at 0 1.17 90) (layer "F.Fab")
+    (fp_text value "33R" (at 0 1.17 90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8d931779-cdf2-47c5-a9eb-4c456f4844aa)
     )
@@ -905,7 +905,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0dca038a-c82e-44f6-b4be-6db24d778a2b)
     )
-    (fp_text value "22R" (at 0 1.17 90) (layer "F.Fab")
+    (fp_text value "33R" (at 0 1.17 90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1677edcf-36c5-4784-a709-5e25b3cd883a)
     )
@@ -1089,7 +1089,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/e981660f-7717-449b-8d64-17301d3e16cd")
     (attr smd)
-    (fp_text reference "H301" (at 0 -4.65) (layer "F.SilkS") hide
+    (fp_text reference "SP301" (at 0 -4.65) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ffe6a042-ae13-4e81-80d5-3a28c3572fbc)
     )
