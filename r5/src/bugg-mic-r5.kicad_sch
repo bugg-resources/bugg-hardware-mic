@@ -2173,7 +2173,7 @@
     (property "Value" "2842142-4" (at 231.14 109.22 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "jeffmakes-footprints:PinHeader_2x04_P2.00mm_Vertical_SMD_AMPMODU" (at 234.95 99.06 0)
+    (property "Footprint" "jeffmakes-footprints:xPRN042MAMP-RC" (at 234.95 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 99.06 0)
