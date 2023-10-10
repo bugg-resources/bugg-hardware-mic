@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.99.0-1.20230926git54171ec.fc37*%
-%TF.CreationDate,2023-10-03T14:44:04+01:00*%
+%TF.CreationDate,2023-10-10T16:21:44+01:00*%
 %TF.ProjectId,bugg-mic-r5,62756767-2d6d-4696-932d-72352e6b6963,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.99.0-1.20230926git54171ec.fc37) date 2023-10-03 14:44:04*
+G04 Created by KiCad (PCBNEW 7.99.0-1.20230926git54171ec.fc37) date 2023-10-10 16:21:44*
 %MOMM*%
 %LPD*%
 G01*
