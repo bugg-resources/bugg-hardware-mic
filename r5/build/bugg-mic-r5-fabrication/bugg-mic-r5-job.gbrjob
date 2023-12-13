@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.99.0-1.20230926git54171ec.fc37"
     },
-    "CreationDate": "2023-10-10T16:21:44+01:00"
+    "CreationDate": "2023-10-10T18:57:34+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -17,7 +17,7 @@
       "X": 30.6,
       "Y": 22.1
     },
-    "LayerNumber": 6,
+    "LayerNumber": 2,
     "BoardThickness": 1.6,
     "Finish": "None"
   },
@@ -30,14 +30,6 @@
       "MinLineWidth": 0.2,
       "TrackToRegion": 0.25,
       "RegionToRegion": 0.25
-    },
-    {
-      "Layers": "Inner",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
-      "TrackToTrack": 0.15,
-      "TrackToRegion": 0.25,
-      "RegionToRegion": 0.25
     }
   ],
   "FilesAttributes": [
@@ -47,28 +39,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bugg-mic-r5-In1_Cu-ground.g2",
-      "FileFunction": "Copper,L2,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "bugg-mic-r5-In2_Cu-routing.g3",
-      "FileFunction": "Copper,L3,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "bugg-mic-r5-In3_Cu-routing.g4",
-      "FileFunction": "Copper,L4,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "bugg-mic-r5-In4_Cu-power.g5",
-      "FileFunction": "Copper,L5,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "bugg-mic-r5-B_Cu.gbl",
-      "FileFunction": "Copper,L6,Bot",
+      "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
@@ -105,11 +77,6 @@
       "Path": "bugg-mic-r5-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
-    },
-    {
-      "Path": "bugg-mic-r5-User_1.gbr",
-      "FileFunction": "Other,User",
-      "FilePolarity": "Positive"
     }
   ],
   "MaterialStackup": [
@@ -135,58 +102,10 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.22,
+      "Thickness": 1.51,
       "Material": "FR4",
-      "Name": "F.Cu/In1.Cu-ground",
-      "Notes": "Type: dielectric layer 1 (from F.Cu to In1.Cu-ground)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In1.Cu-ground"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.3,
-      "Material": "FR4",
-      "Name": "In1.Cu-ground/In2.Cu-routing",
-      "Notes": "Type: dielectric layer 2 (from In1.Cu-ground to In2.Cu-routing)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In2.Cu-routing"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.33,
-      "Material": "FR4",
-      "Name": "In2.Cu-routing/In3.Cu-routing",
-      "Notes": "Type: dielectric layer 3 (from In2.Cu-routing to In3.Cu-routing)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In3.Cu-routing"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.3,
-      "Material": "FR4",
-      "Name": "In3.Cu-routing/In4.Cu-power",
-      "Notes": "Type: dielectric layer 4 (from In3.Cu-routing to In4.Cu-power)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In4.Cu-power"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.22,
-      "Material": "FR4",
-      "Name": "In4.Cu-power/B.Cu",
-      "Notes": "Type: dielectric layer 5 (from In4.Cu-power to B.Cu)"
+      "Name": "F.Cu/B.Cu",
+      "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
